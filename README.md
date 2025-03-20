@@ -32,12 +32,12 @@
  ---
  
  ## 📌 About Me  
- - 🔭 I’m currently working on **Yaash Shop - A Local Product Selling App**  
- - 🌱 I’m currently learning **React Native with Expo & Redux**  
- - 🤝 I’m looking to collaborate on **React, Node.js & Mobile App Development**  
- - 🎥 I build **Remotion-based video automation tools**  
- - 📫 How to reach me: **[your-email@example.com]**  
- - ⚡ Fun fact: **I love automating video content creation!**  
+- 🔥 **Passionate Developer** working on **Yaash Shop - A Local Product Selling App**  
+- 📱 **Learning:** React Native with **Expo & Redux** for mobile app development  
+- 🤝 **Open to Collaboration** on **React, Node.js & Mobile App Projects**  
+- 🎥 **Building** automation tools with **Remotion** for video creation  
+- 📩 **Reach Me At:** [your-email@example.com]  
+- ⚡ **Fun Fact:** I love **automating video content creation** & exploring **new tech trends** 🚀
  
  ---
  
