@@ -9,6 +9,12 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vicky2122004&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</p>
+
+
 ## 🛠 Tech Stack  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
