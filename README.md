@@ -34,7 +34,7 @@
  ## 📌 About Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=React+Developer+⚛️+|+Node.js+Backend+🔗;Mobile+App+Enthusiast+📱+|+Automation+Geek+🤖;Open+Source+Contributor+💡+|+Tech+Innovator+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=React+Developer+⚛️,+Node.js+Backend+🔗;Mobile+App+Enthusiast+📱,+Automation+Geek+🤖;Open+Source+Contributor+💡,+Tech+Innovator+🚀" alt="Typing SVG" />
 </p>
  
 - 🔥 **Passionate Developer** working on **Yaash Shop - A Local Product Selling App**  
