@@ -2,18 +2,29 @@
  ![](https://komarev.com/ghpvc/?username=Vicky2122004&color=blueviolet&style=flat-square)
  
  # Hi there 👋, I'm Vicky!  
- 
- 🚀 **Full Stack Developer | React | Node.js | Mobile Apps**  
- 
  🌟 Passionate about **building scalable web & mobile apps** and **automation tools**.
  
  ---
+
+  ## 📌 About Me  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=React+Developer+⚛️;+Node.js+Backend+Developer🔗;Mobile+App+Enthusiast+📱;+Tech+Innovator+🚀" alt="Typing SVG" />
+</p>
+ 
+- 🔥 **Passionate Developer** working on **Yaash Shop - A Local Product Selling App**  
+- 📱 **Learning:** React Native with **Expo & Redux** for mobile app development  
+- 🤝 **Open to Collaboration** on **React, Node.js & Mobile App Projects**  
+- 🎥 **Building** automation tools with **Remotion** for video creation  
+- 📩 **Reach Me At:** [your-email@example.com]  
+- ⚡ **Fun Fact:** I love **automating video content creation** & exploring **new tech trends** 🚀
  
  ## 🏆 GitHub Trophies  
  <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=Vicky2122004" />
  </p>
- 
+
+ ---
  
  ## 🛠 Tech Stack  
  
@@ -28,21 +39,6 @@
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
  </p>
  
- 
- ---
- 
- ## 📌 About Me  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=React+Developer+⚛️;+Node.js+Backend+Developer🔗;Mobile+App+Enthusiast+📱;+Tech+Innovator+🚀" alt="Typing SVG" />
-</p>
- 
-- 🔥 **Passionate Developer** working on **Yaash Shop - A Local Product Selling App**  
-- 📱 **Learning:** React Native with **Expo & Redux** for mobile app development  
-- 🤝 **Open to Collaboration** on **React, Node.js & Mobile App Projects**  
-- 🎥 **Building** automation tools with **Remotion** for video creation  
-- 📩 **Reach Me At:** [your-email@example.com]  
-- ⚡ **Fun Fact:** I love **automating video content creation** & exploring **new tech trends** 🚀
  
  ---
  
