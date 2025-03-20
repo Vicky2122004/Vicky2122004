@@ -41,16 +41,12 @@
  
  ---
  
- ## 📌 Featured Projects  
- ### 🛍️ Yaash Shop - Local Product Selling App  
- 🔹 **Tech:** React, Node.js, MongoDB, TailwindCSS, Firebase  
- 🔹 **Features:** E-commerce, secure payments, real-time order tracking  
- 🔹 **Repo:** [GitHub Repo](https://github.com/Vicky2122004/yaash-shop)  
- 
- ### 🎥 Remotion Video Automation  
- 🔹 **Tech:** Remotion, React, Node.js  
- 🔹 **Features:** Automated video creation for social media  
- 🔹 **Repo:** [GitHub Repo](https://github.com/Vicky2122004/remotion-automation)  
+## 📌 Featured Projects  
+
+| Project | Tech Stack | Features | Repo |
+|---------|-----------|----------|------|
+| 🛍️ **Yaash Shop** - Local Product Selling App | React, Node.js, MongoDB, TailwindCSS, Firebase | E-commerce, secure payments, real-time order tracking | [GitHub Repo](https://github.com/Vicky2122004/yaash-shop) |
+| 🎥 **Remotion Video Automation** | Remotion, React, Node.js | Automated video creation for social media | [GitHub Repo](https://github.com/Vicky2122004/remotion-automation) | 
  
  ---
  
