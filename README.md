@@ -1,27 +1,66 @@
-## Hi there 👋, I'm Vicky!
+<!-- Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=Vicky2122004&color=blueviolet&style=flat-square)
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Yaash Shop - A Local Product Selling App**  
-- 🌱 I’m currently learning **React Native with Expo & Redux**  
-- 👯 I’m looking to collaborate on **React, Node.js & Mobile App Development**  
-- 🤔 I’m looking for help with **advanced Remotion video automation**  
-- 💬 Ask me about **React, Tailwind CSS, Node.js, and Firebase**  
-- 📫 How to reach me: **[Your Email or Social Links]**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love building automation tools for content creation!**  
+# Hi there 👋, I'm Vicky!  
 
-### 🛠 Tech Stack
+🚀 **Full Stack Developer | React | Node.js | Mobile Apps**  
+
+🌟 Passionate about **building scalable web & mobile apps** and **automation tools**.
+
+---
+
+## 🛠 Tech Stack  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-### 📈 GitHub Stats  
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicky2122004&show_icons=true&theme=radical)  
+---
+
+## 📌 About Me  
+- 🔭 I’m currently working on **Yaash Shop - A Local Product Selling App**  
+- 🌱 I’m currently learning **React Native with Expo & Redux**  
+- 🤝 I’m looking to collaborate on **React, Node.js & Mobile App Development**  
+- 🎥 I build **Remotion-based video automation tools**  
+- 📫 How to reach me: **[your-email@example.com]**  
+- ⚡ Fun fact: **I love automating video content creation!**  
+
+---
+
+## 📌 Featured Projects  
+### 🛍️ Yaash Shop - Local Product Selling App  
+🔹 **Tech:** React, Node.js, MongoDB, TailwindCSS, Firebase  
+🔹 **Features:** E-commerce, secure payments, real-time order tracking  
+🔹 **Repo:** [GitHub Repo](https://github.com/Vicky2122004/yaash-shop)  
+
+### 🎥 Remotion Video Automation  
+🔹 **Tech:** Remotion, React, Node.js  
+🔹 **Features:** Automated video creation for social media  
+🔹 **Repo:** [GitHub Repo](https://github.com/Vicky2122004/remotion-automation)  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vicky2122004&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vicky2122004&theme=radical" />
+</p>
+
+---
+
+## 🌟 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky2122004&layout=compact&theme=radical)  
 
 ---
 
-⭐ **Star my repositories if you find them useful!** 😃  
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)  
 
+---
+
+⭐ **Star my repositories if you find them useful!** 😃  
