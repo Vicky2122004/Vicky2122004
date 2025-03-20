@@ -11,7 +11,7 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vicky2122004" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vicky2122004&theme=onedark&no-frame=true&margin-w=15&column=7" />
 </p>
 
 
