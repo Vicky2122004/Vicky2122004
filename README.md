@@ -9,22 +9,23 @@
   ## 📌 About Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=React+Developer+⚛️;+Node.js+Backend+Developer🔗;Mobile+App+Enthusiast+📱;+Tech+Innovator+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=React+and+React+Native+Developer+⚛️;Remotion+Developer+🎥;+Node.js+Backend+Developer🔗;Mobile+App+Enthusiast+📱;+Tech+Innovator+🚀" alt="Typing SVG" />
 </p>
  
 - 🔥 **Passionate Developer** working on **Yaash Shop - A Local Product Selling App**  
 - 📱 **Learning:** React Native with **Expo & Redux** for mobile app development  
 - 🤝 **Open to Collaboration** on **React, Node.js & Mobile App Projects**  
 - 🎥 **Building** automation tools with **Remotion** for video creation  
-- 📩 **Reach Me At:** [your-email@example.com]  
 - ⚡ **Fun Fact:** I love **automating video content creation** & exploring **new tech trends** 🚀
 
 ---
  
  ## 🏆 GitHub Trophies  
  <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Vicky2122004" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vicky2122004&theme=discord&no-frame=true&margin-w=20&margin-h=15&column=7" alt="GitHub Trophies" />
  </p>
+
+ ---
  
  ## 🛠 Tech Stack  
  
@@ -44,10 +45,10 @@
  
 ## 📌 Featured Projects  
 
-| Project | Tech Stack | Features | Repo |
+| Project | Tech Stack | Features | 🔗 Link |
 |---------|-----------|----------|------|
-| 🛍️ **Yaash Shop** - Local Product Selling App | React, Node.js, MongoDB, TailwindCSS, Firebase | E-commerce, secure payments, real-time order tracking | [GitHub Repo](https://github.com/Vicky2122004/yaash-shop) |
-| 🎥 **Remotion Video Automation** | Remotion, React, Node.js | Automated video creation for social media | [GitHub Repo](https://github.com/Vicky2122004/remotion-automation) | 
+| 🛍️ **Yaash Shop** - Local Product Selling App | React, Node.js, MongoDB, TailwindCSS, Firebase | E-commerce, secure payments, real-time order tracking | [Visit](https://shop.yaash.co.in/) |
+| 🎥 **Remotion Video Automation** | Remotion, React, Node.js | Automated video creation for social media | [Visit](https://vid.bankniftycpr.com/) |
  
  ---
  
