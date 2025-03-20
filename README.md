@@ -9,7 +9,7 @@
   ## 📌 About Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=React+and+React+Native+Developer+⚛️;Remotion+Developer+🎥;+Node.js+Backend+Developer🔗;Mobile+App+Enthusiast+📱;+Tech+Innovator+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=React+and+React+Native+Developer+⚛️;Remotion+Developer+🎥;Node.js+Backend+Developer+🔗;Mobile+App+Enthusiast+📱;Tech+Innovator+🚀" alt="Typing SVG" />
 </p>
  
 - 🔥 **Passionate Developer** working on **Yaash Shop - A Local Product Selling App**  
@@ -47,7 +47,7 @@
 
 | Project | Tech Stack | Features | 🔗 Link |
 |---------|-----------|----------|------|
-| 🛍️ **Yaash Shop** - Local Product Selling App | React, Node.js, MongoDB, TailwindCSS, Firebase | E-commerce, secure payments, real-time order tracking | [Visit](https://shop.yaash.co.in/) |
+| 🛍️ **Yaash Shop** - Local Product Selling App | React, Node.js, PostgreSQL, TailwindCSS, Firebase | E-commerce, secure payments, real-time order tracking, Quick Shopping | [Visit](https://shop.yaash.co.in/) |
 | 🎥 **Remotion Video Automation** | Remotion, React, Node.js | Automated video creation for social media | [Visit](https://vid.bankniftycpr.com/) |
  
  ---
