@@ -1,7 +1,7 @@
 <!-- Profile Views Counter -->
  ![](https://komarev.com/ghpvc/?username=Vicky2122004&color=blueviolet&style=flat-square)
  
- # Hi there 👋, I'm Vicky!  
+# Hi there 👋, <span style="color:blue">I'm Vicky!</span>   
  🌟 Passionate about **building scalable web & mobile apps**.
  
  ---
