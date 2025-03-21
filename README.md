@@ -12,11 +12,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=React+and+React+Native+Developer+⚛️;Remotion+Developer+🎥;Node.js+Backend+Developer+🔗;Mobile+App+Enthusiast+📱;Tech+Innovator+🚀" alt="Typing SVG" />
 </p>
  
-- 🔥 **Passionate Developer** working on **Yaash Shop - A Local Product Selling App**  
-- 📱 **Learning:** React Native with **Expo & Redux** for mobile app development  
-- 🤝 **Open to Collaboration** on **React, Node.js & Mobile App Projects**  
-- 🎥 **Building** automation tools with **Remotion** for video creation  
-- ⚡ **Fun Fact:** I love **automating video content creation** & exploring **new tech trends** 🚀
+<div align="center">
+  <table style="border-radius: 10px; padding: 15px; background-color: #1e1e1e; box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.1); width: 80%;">
+    <tr>
+      <td>
+        <ul>
+          <li>🔥 <b>Passionate Developer</b> working on <b>Yaash Shop</b> - A Local Product Selling App.</li>
+          <li>📱 <b>Currently Learning:</b> Mastering <b>React Native</b> with <b>Expo & Redux</b> for mobile development.</li>
+          <li>🤝 <b>Open to Collaboration</b> on <b>React, Node.js & Mobile App Projects</b>.</li>
+          <li>🎥 <b>Building Automation Tools</b> using <b>Remotion</b> for high-quality video content creation.</li>
+          <li>⚡ <b>Fun Fact:</b> I love <b>automating video content</b> & exploring <b>new tech trends</b> 🚀.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
  
