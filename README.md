@@ -18,7 +18,7 @@
       <td>
         <ul>
           <li>🔥 <b>Passionate Developer</b> working on <b>Yaash Shop</b> - A Local Product Selling App.</li>
-          <li>📱 <b>Currently Learning:</b> Mastering <b>React Native</b> with <b>Expo & Redux</b> for mobile development.</li>
+          <li>📱 <b>Currently Learning:</b> Mastering <b>React Native</b> with <b>Expo & Redux</b> for mobile App development.</li>
           <li>🤝 <b>Open to Collaboration</b> on <b>React, Node.js & Mobile App Projects</b>.</li>
           <li>🎥 <b>Building Automation Tools</b> using <b>Remotion</b> for high-quality video content creation.</li>
           <li>⚡ <b>Fun Fact:</b> I love <b>automating video content</b> & exploring <b>new tech trends</b> 🚀.</li>
