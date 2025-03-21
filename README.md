@@ -32,7 +32,7 @@
  
  ## 🏆 GitHub Trophies  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vicky2122004&theme=discord&no-frame=true&margin-w=20&margin-h=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vicky2122004&theme=discord&no-frame=true&margin-w=20&margin-h=15&column=4" alt="GitHub Trophies" />
 </div>
 
  ---
