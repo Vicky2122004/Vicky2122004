@@ -2,15 +2,13 @@
  ![](https://komarev.com/ghpvc/?username=Vicky2122004&color=blueviolet&style=flat-square)
  
 # Hi there 👋, <span style="color:blue">I'm Vicky!</span>   
- 🌟 Passionate about **building scalable web & mobile apps**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=React+and+React+Native+Developer+⚛️;Remotion+Developer+🎥;Node.js+Backend+Developer+🔗;Mobile+App+Enthusiast+📱;Tech+Innovator+🚀" alt="Typing SVG" />
+</p>
  
  ---
 
   ## 📌 About Me  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=React+and+React+Native+Developer+⚛️;Remotion+Developer+🎥;Node.js+Backend+Developer+🔗;Mobile+App+Enthusiast+📱;Tech+Innovator+🚀" alt="Typing SVG" />
-</p>
  
 <div align="center">
   <table style="border-radius: 10px; padding: 15px; background-color: #1e1e1e; box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.1); width: 80%;">
