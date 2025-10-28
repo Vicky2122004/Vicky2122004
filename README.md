@@ -3,7 +3,7 @@
  
 # Hi there 👋, <span style="color:blue">I'm Vicky!</span>   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=21e6df&center=true&vCenter=true&width=600&lines=React+and+React+Native+Developer+⚛️;Remotion+Developer+🎥;Node.js+Backend+Developer+🔗;Mobile+App+Enthusiast+📱;Tech+Innovator+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=21e6df&center=true&vCenter=true&width=600&lines=React+and+React+Native+Developer+⚛️;Node.js+Backend+Developer+🔗;Mobile+App+Enthusiast+📱;Tech+Innovator+🚀" alt="Typing SVG" />
 </p>
  
  ---
