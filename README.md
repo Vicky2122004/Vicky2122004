@@ -94,5 +94,7 @@
  
  
  ---
+
+ ![GitHub Snake](https://raw.githubusercontent.com/Vicky2122004/Vicky2122004/output/github-contribution-grid-snake.svg)
  
  ⭐ **Star my repositories if you find them useful!** 😃  
