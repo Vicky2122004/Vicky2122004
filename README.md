@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#21e6df;">Vicky!</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=21e6df&center=true&vCenter=true&width=600&lines=React+and+React+Native+Developer+⚛️;Node.js+Backend+Developer+🔗;Mobile+App+Enthusiast+📱;Tech+Innovator+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=21e6df&center=true&vCenter=true&width=750&lines=Full+Stack+and+React+Developer+💻;Co-founder+of+Inteleway+Technologies+🚀;Building+Web%2C+Mobile+and+SaaS+Products+⚡;Turning+Ideas+into+Digital+Solutions+💡" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,10 +17,10 @@
     <tr>
       <td>
         <ul>
-          <li>🔥 <b>Passionate Developer</b> working on <b>Yaash Shop</b> — A Local Product Selling App.</li>
-          <li>📱 <b>Currently Learning:</b> Mastering <b>React Native</b> with <b>Expo & Redux</b> for advanced mobile app development.</li>
-          <li>🎥 <b>Building Automation Tools</b> using <b>Remotion</b> for high-quality, automated video content creation.</li>
-          <li>⚡ <b>Fun Fact:</b> I love <b>automating workflows</b> & exploring <b>new tech trends</b> 🚀</li>
+          <li>💻 <b>Full Stack & React Developer</b> passionate about building modern, scalable and user-focused digital products.</li>
+          <li>🚀 <b>Co-founder of Inteleway Technologies</b> — Building web applications, mobile apps, digital solutions and practical SaaS products with a vision to solve real-world problems through technology.</li>
+          <li>🧠 <b>Currently Exploring:</b> Advanced full-stack development, <b>Next.js, React Native, MongoDB</b> and scalable application architecture.</li>
+          <li>⚡ <b>My Vision:</b> To transform meaningful ideas into impactful digital products and build technology solutions that create real value for businesses and people.</li>
         </ul>
       </td>
     </tr>
@@ -40,6 +40,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -51,15 +53,23 @@
 
 ---
 
-## 📌 Featured Projects  
+## 🚀 Products I've Worked On
+
 <p align="center">
 
-| 🧩 Project | ⚙️ Tech Stack | 🚀 Features | 🔗 Link |
-|------------|---------------|--------------|----------|
-| 🛍️ **Yaash Shop** — Local Product Selling App | React, Node.js, PostgreSQL, TailwindCSS, Firebase | E-commerce, secure payments, real-time order tracking, quick shopping | [Visit](https://shop.yaash.co.in/) |
-| 🎥 **Remotion Video Automation** | Remotion, React, Node.js | Automated video creation for social media | [Visit](https://vid.bankniftycpr.com/) |
+| 🧩 Product | ⚙️ Tech Stack | 🚀 Overview |
+|------------|---------------|-------------|
+| 🛍️ **Yaash Mart** | React, TypeScript, Redux, Tailwind CSS, Node.js, Express.js, PostgreSQL, Firebase | E-commerce platform for customers and administrators, including product browsing, authentication, shopping workflows and order management. |
+| 🎥 **Promo** | React, Remotion, Node.js, Express.js, PostgreSQL, Firebase | Promotional video creation platform using predefined video templates, automated rendering and publishing workflows. |
+| 📖 **Storybook** | React, Remotion, Node.js, Express.js, PostgreSQL, Firebase | Platform that transforms children's PDF story content into engaging videos with audio and automated video generation workflows. |
+| 👔 **MakeMePro** | React, Firebase | AI-powered platform that transforms selfies into professional job and profile-ready portraits. |
+| 📊 **Menu Extractor** | React | Platform for extracting menu data from PDF documents and converting it into structured CSV data. |
 
 </p>
+
+### 💡 Beyond These Products
+
+I've had the opportunity to work on multiple real-world products across **e-commerce, video automation, AI-powered tools, document processing and digital business platforms**. My experience focuses on building **modern user interfaces and contributing to end-to-end web application development**.
 
 ---
 
